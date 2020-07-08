@@ -1,0 +1,6 @@
+C:\Users\ACER-PREDATOR\Documents\Responsi\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+C:\Users\ACER-PREDATOR\Documents\Responsi\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+C:\Users\ACER-PREDATOR\Documents\Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojAssemblyReference.cache
+C:\Users\ACER-PREDATOR\Documents\Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\ACER-PREDATOR\Documents\Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+C:\Users\ACER-PREDATOR\Documents\Responsi\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
